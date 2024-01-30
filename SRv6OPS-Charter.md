@@ -11,7 +11,7 @@ The SRv6OPS WG focuses on the operational aspects of deploying and managing Segm
 ## Scope:
 The SRv6OPS WG focuses on best practices, deployment guidance, and operational issues. Solutions and protocol extensions are not within its scope. The scope of the SRv6OPS WG includes:
 * Operational Issues and corresponding solutions: IPv6 address planning for SRv6 SIDs, protection, inter-domain.
-* Security analysis: Best practices and threat analysis in securing control plane protocols and data plane communications, access control, and mitigation of attack vectors.
+* Security analysis: Best practices and operational guidance in securing control plane protocols and data plane communications, access control, and mitigation of attack vectors.
 * Deployment scenarios: Addressing operational considerations for diverse network environments and use cases.
 * SRv6 network management: Configuration, monitoring, troubleshooting, OAM, and performance optimization.
 * Interworking operational guidance with other technologies: Seamless integration of SRv6 with existing networks and protocols, including SR MPLS.
