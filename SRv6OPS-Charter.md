@@ -6,7 +6,7 @@ The SRv6OPS WG focuses on the operational aspects of deploying and managing Segm
 * Identifying and addressing operational challenges encountered during SRv6 deployments.
 * Fostering collaboration and knowledge sharing among network operators, vendors, and researchers involved in SRv6 operations.
 * Collaborate with other IETF Working Groups (WGs) relevant to SRv6 and related technologies.
-* Provide advice on the standardization of operational tools and mechanisms for SRv6 networks.
+* Provide advice on standardizing operational tools and mechanisms for SRv6 networks.
 
 ## Scope:
 The SRv6OPS WG focuses on best practices, deployment guidance, operational issues, new requirements, and potential operational experiments. Solutions and protocol extensions are not within its scope. The scope of the SRv6OPS WG includes:
