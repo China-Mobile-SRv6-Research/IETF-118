@@ -9,7 +9,8 @@ The SRv6OPS WG focuses on the operational aspects of deploying and managing Segm
 * Provide advice on standardizing operational tools and mechanisms for SRv6 networks.
 
 ## Scope:
-The SRv6OPS WG focuses on best practices, deployment guidance, operational issues, new requirements, and potential operational experiments. Solutions and protocol extensions are not within its scope. The scope of the SRv6OPS WG includes:
+The SRv6OPS WG focuses on best practices, deployment guidance, operational issues, new requirements, and potential operational experiments.
+Development of new protocols and protocol extensions are not within the scope of the WG. The scope of the SRv6OPS WG includes:
 * Operational Issues and requirements for possible solutions: IPv6 address planning for SRv6 SIDs, protection, inter-domain, interworking with other technologies.
 * Deployment scenarios: Addressing operational considerations for diverse network environments and use cases.
 * SRv6 network management guidance: Configuration, observability, assurance, and performance optimization.
