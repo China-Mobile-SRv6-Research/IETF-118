@@ -4,7 +4,7 @@ The Segment Routing (SR) instantiation on the IPv6 data plane is referred to as 
 
 ## Mission:
 The SRv6OPS WG focuses on the operational aspects of deploying and managing Segment Routing over IPv6 (SRv6) networks. The mission includes:
-* Solicit input from network operators to identify operational issues in the SRv6 networks.
+* Soliciting input from network operators to identify operational issues in SRv6 networks.
 * Developing best practices and operational guidelines for secure, reliable, efficient, and scalable operation of SRv6 networks.
 * Identifying and addressing operational challenges encountered during SRv6 deployments.
 
@@ -21,7 +21,7 @@ The scope of the SRv6OPS WG includes:
 
 ## Key Deliverables:
 The SRv6OPS WG will work on the following items:
-* SRv6 deployment status and best practice, including deployment scenarios (metro, core and enterprise networks), scale-up capability, and inter-domain deployment experience. 
+* SRv6 deployment experience and best practices, including deployment scenarios (metro, core and enterprise networks), scale-up capability, and inter-domain implementations. 
 * Recommendations and guidance for IPv6 address planning for SRv6 SID, including SRv6 compression. 
 * SRv6 network management guidance for configuration, automation, and performance optimization.
 * SRv6 network observability guidance for assurance and troubleshooting.
@@ -29,6 +29,6 @@ The SRv6OPS WG will work on the following items:
 ## Relationships with Other WGs:
 The SRv6OPS WG will cooperate with other WGs as needed. Specific expected interactions include (but may not be limited to):
 * SPRING WG: Close cooperation on SRv6 protocol extensions, new requirements and operational considerations.
-* v6ops WG: Sharing best practices and addressing IPv6 and SRv6 interworking challenges.
-* 6man WG: cooperation on core IPv6 functionalities and addressing their impact on SRv6 operation.
+* v6ops WG: Sharing best practices and addressing deployment challenges.
+* 6man WG: Cooperation on core IPv6 functionalities, requirements, and operational considerations.
 The chairs will cross-post WGLC notices to the relevant WGs.
