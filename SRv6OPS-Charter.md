@@ -28,7 +28,7 @@ The SRv6OPS WG scope includes:
 ## Key Deliverables:
 The SRv6OPS WG will focus on the following items:
 
-* Documenting SRv6 deployment experiences and best practices, including different deployment scenarios (metro, core, and enterprise networks), scalability, and inter-domain implementations.
+* Documenting SRv6 deployment experiences, including different deployment scenarios (metro, core, and enterprise networks), scalability, and inter-domain implementations.
 
 * Providing recommendations and guidance for various aspects such as IPv6 address planning, block size allocation, and the division of global/local identifiers block (GIB/LIB) for SRv6 SIDs, both with and without SRv6 compression techniques essential for effective network management.
 
@@ -41,7 +41,7 @@ The SRv6OPS WG will cooperate with other WGs as necessary. Key interactions incl
 
 * SPRING WG: Close cooperation on SRv6 protocol extensions, new requirements, and operational considerations.
 
-* V6OPS WG: Sharing best practices and addressing deployment challenges.
+* V6OPS WG: Close cooperation on operational guidance and addressing deployment challenges.
 
 * 6MAN WG: Cooperation on core IPv6 functionalities, requirements, and operational considerations.
 
