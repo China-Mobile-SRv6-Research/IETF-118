@@ -53,4 +53,4 @@ The SRv6OPS WG will cooperate with other WGs as necessary. Key interactions incl
 
 * LSR WG: Close cooperation on SRv6-based IGP protocol extensions, new SRv6-based attributes and encodings, and operational considerations.
 
-The chairs will ensure that Working Group Last Call (WGLC) notices are cross-posted to the relevant WGs.
+The chairs will ensure that Working Group Last Call (WGLC) and Adoption notices are cross-posted to the relevant WGs.
