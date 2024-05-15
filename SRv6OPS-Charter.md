@@ -1,34 +1,52 @@
 *Editor note: We are in the process of trying to convert the BoF group into a WG. This means that the list address is currently incorrect, there are no chairs listed, etc... Please be patient while we turn the administrative crank...*
 
 # Proposed Charter for SRv6 Operations (SRv6OPS)
-The Segment Routing (SR) instantiation on the IPv6 data plane is referred to as SRv6.
+The Segment Routing (SR) implementation on the IPv6 data plane is known as SRv6.
 
 ## Mission:
-The SRv6OPS WG focuses on the operational aspects of deploying and managing Segment Routing over IPv6 (SRv6) networks. The mission includes:
-* Soliciting input from network operators to identify operational issues in SRv6 networks.
-* Developing best practices and operational guidelines for secure, reliable, efficient, and scalable operation of SRv6 networks.
-* Identifying and addressing operational challenges encountered during SRv6 deployments.
+The SRv6OPS Working Group (WG) is dedicated to the operational aspects of deploying and managing Segment Routing over IPv6 (SRv6) networks. Our mission includes:
+
+*Gathering input from network operators to identify operational issues in SRv6 networks.
+
+*Developing best practices and operational guidelines to ensure secure, reliable, efficient, and scalable SRv6 network operations.
+
+*Identifying and resolving operational challenges encountered during SRv6 deployments.
 
 ## Scope:
-The SRv6OPS WG focuses on best practices, deployment guidance, operational issues, gaps, and potential operational experiments.
+The SRv6OPS Working Group (WG) is dedicated to creating informational documents that provide deployment guidance, address operational issues, identify gaps, and explore potential operational experiments.
 
-The development of protocols and protocol extensions is not within the scope of the SRv6OPS WG. Furthermore, the chairs of SRv6OPS WG will discuss with the AD before adopting documents that discuss operational considerations and guidance for SRv6-related technologies that are still under development in other WGs (SPRING, 6MAN, for example). Discussions and presentations to increase awareness about potential operational issues for feedback from the operator's community are welcome.
+The development of protocols and protocol extensions is beyond the scope of the SRv6OPS WG. Additionally, the chairs of the SRv6OPS WG will consult with the Area Director (AD) before adopting documents that discuss operational considerations and guidance for SRv6-related technologies under development in other WGs (such as SPRING and 6MAN). Discussions and presentations aimed at raising awareness of operational artifacts and gathering feedback from the operator community deploying SRv6 are encouraged.
 
-The scope of the SRv6OPS WG includes:
-* Operational issues and requirements for possible solutions: IPv6 address planning for SRv6 SIDs, protection, inter-domain, interworking with other technologies.
-* Deployment scenarios: Addressing operational considerations for diverse network environments and use cases.
-* SRv6 network management guidance: Configuration, observability, assurance, and performance optimization.
+The SRv6OPS WG scope includes:
+
+*Operational Issues and Requirements: Addressing IPv6 address planning for SRv6 Segment Identifiers (SIDs), protection, inter-domain, and interworking with other technologies.
+
+*Deployment Scenarios: Considering operational considerations for various network environments and use cases.
+
+*SRv6 Network Management Guidance: Providing insights on configuration, observability, assurance, and performance optimization.
 
 ## Key Deliverables:
-The SRv6OPS WG will work on the following items:
-* SRv6 deployment experience and best practices, including deployment scenarios (metro, core and enterprise networks), scale-up capability, and inter-domain implementations.
-* Recommendations and guidance for IPv6 address planning for SRv6 SID, including SRv6 compression.
-* SRv6 network management guidance for configuration, automation, and performance optimization.
-* SRv6 network observability guidance for assurance and troubleshooting.
+The SRv6OPS WG will focus on the following items:
+
+*Documenting SRv6 deployment experiences and best practices, including different deployment scenarios (metro, core, and enterprise networks), scalability, and inter-domain implementations.
+
+*Providing recommendations and guidance for various aspects such as IPv6 address planning, block size allocation, and the division of global/local identifiers (gib/lib) for SRv6 SIDs, both with and without SRv6 compression techniques essential for effective network management.
+
+*Providing SRv6 network management guidance for configuration, automation, and performance optimization.
+
+*Developing SRv6 network observability guidance for assurance and troubleshooting.
 
 ## Relationships with Other WGs:
-The SRv6OPS WG will cooperate with other WGs as needed. Specific expected interactions include (but may not be limited to):
-* SPRING WG: Close cooperation on SRv6 protocol extensions, new requirements and operational considerations.
-* v6ops WG: Sharing best practices and addressing deployment challenges.
-* 6man WG: Cooperation on core IPv6 functionalities, requirements, and operational considerations.
-The chairs will cross-post WGLC notices to the relevant WGs.
+The SRv6OPS WG will collaborate with other WGs as necessary. Key interactions include (but are not limited to):
+
+*SPRING WG: Close cooperation on SRv6 protocol extensions, new requirements, and operational considerations.
+
+*v6ops WG: Sharing best practices and addressing deployment challenges.
+
+*6man WG: Collaboration on core IPv6 functionalities, requirements, and operational considerations.
+
+*BESS WG: Close cooperation on SRv6 based BESS WG protocol extensions, new service transport requirements, and operational considerations.
+
+*IDR WG: Close cooperation on SRv6 based BGP protocol extensions, new SRv6 based attributes and encodings, and operational considerations.
+
+The chairs will ensure that Working Group Last Call (WGLC) notices are cross-posted to the relevant WGs.
