@@ -8,7 +8,7 @@ The SRv6OPS Working Group (WG) is dedicated to the operational aspects of deploy
 
 * Gathering input from network operators to identify operational issues in SRv6 networks.
 
-* Developing best practices and operational guidelines to ensure secure, reliable, efficient, and scalable SRv6 network operations.
+* Developing operational guidelines to ensure secure, reliable, efficient, and scalable SRv6 network operations.
 
 * Identifying and resolving operational challenges encountered during SRv6 deployments.
 
