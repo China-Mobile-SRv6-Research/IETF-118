@@ -19,7 +19,7 @@ The development of protocols and protocol extensions is beyond the scope of the 
 
 The SRv6OPS WG scope includes:
 
-* Operational Issues and Requirements: Addressing IPv6 address planning for SRv6 Segment Identifiers (SIDs), protection, inter-domain, and interworking with other technologies.
+* Operational Issues and Requirements: Addressing IPv6 address planning for SRv6 Segment Identifiers (SIDs), protection, inter-domain, and interworking with other technologies. The requirements may not be published as RFCs but may be maintained in draft form or in a collaborative Working Group space.
 
 * Deployment Scenarios: Considering operational considerations for various network environments and use cases.
 
