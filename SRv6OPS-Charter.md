@@ -28,6 +28,8 @@ The SRv6OPS WG scope includes:
 ## Key Deliverables:
 The SRv6OPS WG will focus on the following items:
 
+* Documenting operational or management issues encountered during SRv6 deployment.
+
 * Documenting SRv6 deployment experiences, including different deployment scenarios (metro, core, and enterprise networks), scalability, and inter-domain implementations.
 
 * Providing recommendations and guidance for various aspects such as IPv6 address planning, block size allocation, and the division of global/local identifiers block (GIB/LIB) for SRv6 SIDs, both with and without SRv6 compression techniques essential for effective network management.
