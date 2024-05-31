@@ -1,12 +1,12 @@
-*Editor note: We are in the process of trying to convert the BoF group into a WG. This means that the list address is currently incorrect, there are no chairs listed, etc... Please be patient while we turn the administrative crank...*
+*Editor's note: We are in the process of trying to convert the BoF group into a WG. This means that the list address is currently incorrect, there are no chairs listed, etc... Please be patient while we turn the administrative crank...*
 
 # Proposed Charter for SRv6 Operations (SRv6OPS)
 The Segment Routing (SR) instantiation on the IPv6 data plane is known as SRv6.
 
-## Mission:
-The SRv6OPS Working Group (WG) is dedicated to the operational aspects of deploying and managing Segment Routing over IPv6 (SRv6) networks. Our mission includes:
+## Objective:
+The SRv6OPS Working Group (WG) is dedicated to the operational aspects of deploying and managing SRv6 networks. Our mission includes:
 
-* Gathering input from network operators to identify operational issues in SRv6 networks.
+* Be a forum for network operators to discuss operational matters in SRv6 networks.
 
 * Developing operational guidelines to ensure secure, reliable, efficient, and scalable SRv6 network operations.
 
@@ -15,18 +15,20 @@ The SRv6OPS Working Group (WG) is dedicated to the operational aspects of deploy
 ## Scope:
 The SRv6OPS WG is dedicated to creating informational documents that provide deployment guidance, address operational issues, identify gaps, and explore potential operational experiments.
 
-The development of protocols and protocol extensions is beyond the scope of the SRv6OPS WG. The chairs of the SRv6OPS WG will consult with the Area Director (AD) before adopting documents that discuss operational considerations and guidance for SRv6-related technologies under development in other WGs (such as SPRING and 6MAN). Discussions and presentations aimed at raising awareness of operational artefacts and gathering feedback from the operator community deploying SRv6 are encouraged.
+The development of protocols and protocol extensions is beyond the scope of the SRv6OPS WG. The chairs of the SRv6OPS WG will consult with the responsible Area Director (AD) before adopting documents that discuss operational considerations and guidance for SRv6-related technologies still under development in other WGs (such as SPRING and 6MAN). Discussions and presentations aimed at raising awareness of operational artefacts and gathering feedback from the operator community deploying SRv6 are encouraged.
 
 The SRv6OPS WG scope includes:
 
-* Operational Issues and Requirements: Addressing IPv6 address planning for SRv6 Segment Identifiers (SIDs), protection, inter-domain, and interworking with other technologies. The requirements may not be published as RFCs but may be maintained in draft form or in a collaborative Working Group space.
+* Operational Issues and Requirements: Addressing IPv6 address planning for SRv6 Segment Identifiers (SIDs), protection, inter-domain, and interworking with other technologies. The WG may choose not to publish requirements as an RFC, but maintain them in a draft form or a collaborative WG space.
 
-* Deployment Scenarios: Considering operational considerations for various network environments and use cases.
+* Deployment Scenarios: Discussing operational considerations for various network environments and use cases.
 
-* SRv6 Network Management Guidance: Providing insights on configuration, observability, assurance, and performance optimization.
+* SRv6 Network Management Guidance: Providing insights on configuration, observability, service assurance, and performance optimization.
 
 ## Key Deliverables:
 The SRv6OPS WG will focus on the following items:
+
+* Documenting operational or management issues encountered during SRv6 deployment.
 
 * Documenting SRv6 deployment experiences, including different deployment scenarios (metro, core, and enterprise networks), scalability, and inter-domain implementations.
 
@@ -34,7 +36,7 @@ The SRv6OPS WG will focus on the following items:
 
 * Providing SRv6 network management guidance for configuration, automation, and performance optimization.
 
-* Developing SRv6 network observability guidance for assurance and troubleshooting.
+* Developing SRv6 network observability guidance for service assurance and troubleshooting.
 
 ## Relationships with Other WGs:
 The SRv6OPS WG will cooperate with other WGs as necessary. Key interactions include (but are not limited to):
@@ -54,3 +56,9 @@ The SRv6OPS WG will cooperate with other WGs as necessary. Key interactions incl
 * LSR WG: Close cooperation on SRv6-based IGP protocol extensions, new SRv6-based attributes and encodings, and operational considerations.
 
 The chairs will ensure that Working Group Last Call (WGLC) and Adoption notices are cross-posted to the relevant WGs.
+
+## Milestones
+
+* Adopt a document describing operational and management issues encountered during SRv6 network deployment. Dec 2024
+* Adopt a document describing SRv6 network deployment scenarios and related operational considerations. Mar 2025
+* Adopt a document that makes SRv6 operational recommendations. Mar 2025
