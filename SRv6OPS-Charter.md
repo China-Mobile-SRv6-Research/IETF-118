@@ -6,7 +6,7 @@ The Segment Routing (SR) instantiation on the IPv6 data plane is known as SRv6.
 ## Objective:
 The SRv6OPS Working Group (WG) is dedicated to the operational aspects of deploying and managing SRv6 networks. Our mission includes:
 
-* Be a forum for network operators to discuss and identify operational issues in SRv6 networks.
+* Be a forum for network operators to discuss operational matters in SRv6 networks.
 
 * Developing operational guidelines to ensure secure, reliable, efficient, and scalable SRv6 network operations.
 
@@ -19,7 +19,7 @@ The development of protocols and protocol extensions is beyond the scope of the 
 
 The SRv6OPS WG scope includes:
 
-* Operational Issues and Requirements: Addressing IPv6 address planning for SRv6 Segment Identifiers (SIDs), protection, inter-domain, and interworking with other technologies. The requirements may not be published as RFCs but may be maintained in draft form or in a collaborative Working Group space.
+* Operational Issues and Requirements: Addressing IPv6 address planning for SRv6 Segment Identifiers (SIDs), protection, inter-domain, and interworking with other technologies. The WG may choose not to publish requirements as an RFC, but maintain them in a draft form or a collaborative WG space.
 
 * Deployment Scenarios: Considering operational considerations for various network environments and use cases.
 
@@ -56,3 +56,9 @@ The SRv6OPS WG will cooperate with other WGs as necessary. Key interactions incl
 * LSR WG: Close cooperation on SRv6-based IGP protocol extensions, new SRv6-based attributes and encodings, and operational considerations.
 
 The chairs will ensure that Working Group Last Call (WGLC) and Adoption notices are cross-posted to the relevant WGs.
+
+## Milestones
+
+* Adopt a document describing operational and management issues encountered during SRv6 network deployment. Dec 2024
+* Adopt a document describing SRv6 network deployment scenarios and related operational considerations. Mar 2025
+* Adopt a document that makes SRv6 operational recommendations. Mar 2025
