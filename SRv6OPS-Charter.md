@@ -1,5 +1,3 @@
-*Editor's note: We are in the process of trying to convert the BoF group into a WG. This means that the list address is currently incorrect, there are no chairs listed, etc... Please be patient while we turn the administrative crank...*
-
 # Proposed Charter for SRv6 Operations (SRv6OPS)
 The Segment Routing (SR) instantiation on the IPv6 data plane is known as SRv6.
 
@@ -8,12 +6,10 @@ The SRv6OPS Working Group (WG) is dedicated to the operational aspects of deploy
 
 * Be a forum for network operators to discuss operational matters in SRv6 networks.
 
-* Developing operational guidelines to ensure secure, reliable, efficient, and scalable SRv6 network operations.
-
-* Identifying and resolving operational challenges encountered during SRv6 deployments.
+* Identifying and addressing operational challenges encountered during SRv6 deployments. Additionally, developing operational guidelines to ensure secure, reliable, efficient, and scalable SRv6 network operations.
 
 ## Scope:
-The SRv6OPS WG is dedicated to creating informational documents that provide deployment guidance, address operational issues, identify gaps, and explore potential operational experiments.
+The SRv6OPS WG is dedicated to creating informational documents that provide deployment guidance, address operational issues, and identify gaps.
 
 The development of protocols and protocol extensions is beyond the scope of the SRv6OPS WG. The chairs of the SRv6OPS WG will consult with the responsible Area Director (AD) before adopting documents that discuss operational considerations and guidance for SRv6-related technologies still under development in other WGs (such as SPRING and 6MAN). Discussions and presentations aimed at raising awareness of operational artefacts and gathering feedback from the operator community deploying SRv6 are encouraged.
 
