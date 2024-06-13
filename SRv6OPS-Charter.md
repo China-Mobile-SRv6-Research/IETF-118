@@ -1,4 +1,4 @@
-# Proposed Charter for SRv6 Operations (SRv6OPS)
+# Charter for SRv6 Operations (SRv6OPS)
 The Segment Routing (SR) instantiation on the IPv6 data plane is known as SRv6.
 
 ## Objective:
