@@ -52,9 +52,3 @@ The SRv6OPS WG will cooperate with other WGs as necessary. Key interactions incl
 * LSR WG: Cooperation on SRv6-based IGP protocol extensions, new SRv6-based attributes and encodings, and operational considerations.
 
 The chairs will ensure that Working Group Last Call (WGLC) and Adoption notices are cross-posted to the relevant WGs.
-
-## Milestones
-
-* Adopt a document describing operational and management issues encountered during SRv6 network deployment. Dec 2024
-* Adopt a document describing SRv6 network deployment scenarios and related operational considerations. Mar 2025
-* Adopt a document that makes SRv6 operational recommendations. Mar 2025
