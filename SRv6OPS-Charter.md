@@ -4,14 +4,14 @@ The Segment Routing (SR) instantiation on the IPv6 data plane is known as SRv6.
 ## Objective:
 The SRv6OPS Working Group (WG) is dedicated to the operational aspects of deploying and managing SRv6 networks. Our mission includes:
 
-* Be a forum for network operators to discuss operational matters in SRv6 networks.
+* Being a forum for network operators to discuss operational matters in SRv6 networks.
 
 * Identifying and addressing operational challenges encountered during SRv6 deployments. Additionally, developing operational guidelines to ensure secure, reliable, efficient, and scalable SRv6 network operations.
 
 ## Scope:
 The SRv6OPS WG is dedicated to creating informational documents that provide deployment guidance, address operational issues, and identify gaps.
 
-The development of protocols and protocol extensions is beyond the scope of the SRv6OPS WG. The chairs of the SRv6OPS WG will consult with the responsible Area Director (AD) before adopting documents that discuss operational considerations and guidance for SRv6-related technologies still under development in other WGs (such as SPRING and 6MAN). Discussions and presentations aimed at raising awareness of operational artefacts and gathering feedback from the operator community deploying SRv6 are encouraged.
+The development of protocols and protocol extensions is beyond the scope of the SRv6OPS WG. The chairs of the SRv6OPS WG will consult with the responsible Area Director (AD) before adopting documents that discuss operational considerations and guidance for SRv6-related technologies still under development in other WGs (such as SPRING and 6MAN). Presentations on relevant operational topics and discussions aimed at gathering feedback from the operator community deploying SRv6 are encouraged.
 
 The SRv6OPS WG scope includes:
 
@@ -28,7 +28,7 @@ The SRv6OPS WG will focus on the following items:
 
 * Documenting SRv6 deployment experiences, including different deployment scenarios (metro, core, and enterprise networks), scalability, and inter-domain implementations.
 
-* Providing recommendations and guidance for various aspects such as IPv6 address planning, block size allocation, and the division of global/local identifiers block (GIB/LIB) for SRv6 SIDs, both with and without SRv6 compression techniques essential for effective network management.
+* Providing recommendations and guidance for various aspects such as IPv6 address planning, block size allocation, and the division of global/local identifiers block (GIB/LIB) for SRv6 SIDs, both with and without SRv6 compression techniques.
 
 * Providing SRv6 network management guidance for configuration, automation, and performance optimization.
 
@@ -39,17 +39,17 @@ The SRv6OPS WG will cooperate with other WGs as necessary. Key interactions incl
 
 * SPRING WG: Close cooperation on SRv6 protocol extensions, new requirements, and operational considerations.
 
-* V6OPS WG: Close cooperation on operational guidance and addressing deployment challenges.
+* V6OPS WG: Cooperation on operational guidance and addressing deployment challenges.
 
 * 6MAN WG: Cooperation on core IPv6 functionalities, requirements, and operational considerations.
 
-* BESS WG: Close cooperation on SRv6-based protocol extensions for BGP-enabled services, new service transport requirements, and operational considerations.
+* BESS WG: Cooperation on SRv6-based protocol extensions for BGP-enabled services, new service transport requirements, and operational considerations.
 
-* IDR WG: Close cooperation on SRv6-based BGP extensions, new SRv6-based attributes and encodings, and operational considerations.
+* IDR WG: Cooperation on SRv6-based BGP extensions, new SRv6-based attributes and encodings, and operational considerations.
 
-* PCE WG: Close cooperation on SRv6-based PCEP extensions, new SRv6-based attributes and encodings, and operational considerations.
+* PCE WG: Cooperation on SRv6-based PCEP extensions, new SRv6-based attributes and encodings, and operational considerations.
 
-* LSR WG: Close cooperation on SRv6-based IGP protocol extensions, new SRv6-based attributes and encodings, and operational considerations.
+* LSR WG: Cooperation on SRv6-based IGP protocol extensions, new SRv6-based attributes and encodings, and operational considerations.
 
 The chairs will ensure that Working Group Last Call (WGLC) and Adoption notices are cross-posted to the relevant WGs.
 
